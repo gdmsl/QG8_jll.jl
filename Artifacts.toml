@@ -1,0 +1,103 @@
+[[QG8]]
+arch = "aarch64"
+git-tree-sha1 = "2e30c0a1dfbdf1af64aacfbb3f22b0d3725d7dbe"
+libc = "glibc"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "0836127babcea17215d2fc1926baa23b7694ce78db71dba7c73e6e39ef38ffa4"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[QG8]]
+arch = "aarch64"
+git-tree-sha1 = "49a7d6c39fe6d8df6f2a52c83c66c5dbb27dc202"
+libc = "musl"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "a4e0699a123e756032dde9cf007b14b324005bca0e576bc62aa92163a8ee9060"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.aarch64-linux-musl.tar.gz"
+[[QG8]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6652bb3b20ff6692b7b5ef7f300f3f65b07626b5"
+libc = "glibc"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "329b971cbb3a881bc1d13211296ef0600575f84e1bb91ab0ee400b4cbc8e31c3"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[QG8]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b550e7c3bed5cf998a8e4006e69c4f7f7e0a688e"
+libc = "musl"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "383bed5998ef498dc00b7cff2c2ed7985ae14269f91285ed03e665722157f4b0"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[QG8]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a69e7bacd9fb99c36eac6434d978cef2d14959ed"
+libc = "glibc"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "488fe1768fcf66cf26384722f3454991580408dc954ef117fcca7e79d7cee16e"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[QG8]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "97d482d8a6c46aab30019b5464bbf7935a516a4d"
+libc = "musl"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "ece841a49331ca694807f90f56aa52b154807f6dc2b48df16ebcdc8dfc75a892"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[QG8]]
+arch = "i686"
+git-tree-sha1 = "d4e5fa8cd2e14655de6fb13324df57937b9a61bc"
+libc = "glibc"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "5313f3e8822aac6673f6076468bf1c6f34578f3d00a7782f51f3094050760496"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.i686-linux-gnu.tar.gz"
+[[QG8]]
+arch = "i686"
+git-tree-sha1 = "49a946618893f7ae981096db307228baaccd5765"
+libc = "musl"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "8e6e1e97556ab198e5cd175852e5c16da5105f0b52ac70118cbab9aa2fade0ed"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.i686-linux-musl.tar.gz"
+[[QG8]]
+arch = "powerpc64le"
+git-tree-sha1 = "c74664ed537c1504dd70d955ef8f71bebc70c9e4"
+libc = "glibc"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "52cb18f891ca303406323cb5eaa4d226d2d7a9d51644840b75e80be84d15d213"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[QG8]]
+arch = "x86_64"
+git-tree-sha1 = "d007329ae7a4ac741d4615e52479405cc983350a"
+libc = "glibc"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "546795bb4f9bd4929ab2b11ffd4a2cbafa036e85cbe68f4a2ca20feea5fe7555"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[QG8]]
+arch = "x86_64"
+git-tree-sha1 = "e010659e9a0aba3edcc03291e7fb489be0b00baa"
+libc = "musl"
+os = "linux"
+
+    [[QG8.download]]
+    sha256 = "9f1f93aebca3e01b49958e146d607f4d1dd43600c1e976d1a4e4986b61ade5a2"
+    url = "https://github.com/gdmsl/QG8_jll.jl/releases/download/QG8-v1.0.0+0/QG8.v1.0.0.x86_64-linux-musl.tar.gz"
